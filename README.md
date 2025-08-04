@@ -1,3 +1,12 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8cf1e1fb-3184-4910-b54f-a02d76673af9" />
+
+
+
+
+
+
+
+
 **Ready to Get Started? Here’s What You Need to Know!**
 
 - **Compatibility**: This software works seamlessly on Windows 10 and newer versions!
